@@ -1,5 +1,16 @@
 ![masterlogo](https://github.com/Hassan-Muhammad-Yousuf/Hassan-Muhammad-Yousuf/blob/main/Github%20Banner.gif)
 
+<style>
+  #centered-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optional: Adjust the height as per your needs */
+    text-align: center;
+  }
+</style>
+<div id="centered-section">
+  
 
 # 💫 About Me:
 Welcome to my profile! I'm not your typical software engineer—I'm a fitness enthusiast with a passion for coding. Balancing my love for technology and a healthy lifestyle, I bring a unique perspective to the world of software engineering.<br>As a software engineer, I thrive on tackling complex problems and finding elegant solutions. But what sets me apart is my unwavering commitment to health and fitness. I believe that a strong body and a sharp mind go hand in hand, and I apply this philosophy to my work.
@@ -19,4 +30,5 @@ Welcome to my profile! I'm not your typical software engineer—I'm a fitness en
 ---
 [![](https://visitcount.itsvg.in/api?id=Hassan-Muhammad-Yousuf&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
