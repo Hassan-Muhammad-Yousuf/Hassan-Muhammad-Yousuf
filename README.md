@@ -1,14 +1,6 @@
 ![masterlogo](https://github.com/Hassan-Muhammad-Yousuf/Hassan-Muhammad-Yousuf/blob/main/Github%20Banner.gif)
 
-<style>
-  #centered-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Optional: Adjust the height as per your needs */
-    text-align: center;
-  }
-</style>
+
 <div id="centered-section">
   
 
@@ -31,4 +23,12 @@ Welcome to my profile! I'm not your typical software engineer—I'm a fitness en
 [![](https://visitcount.itsvg.in/api?id=Hassan-Muhammad-Yousuf&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
-
+<style>
+  #centered-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optional: Adjust the height as per your needs */
+    text-align: center;
+  }
+</style>
