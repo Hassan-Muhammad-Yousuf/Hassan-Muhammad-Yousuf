@@ -1,7 +1,6 @@
-### Hello, I'm Hassan Muhammad Yousuf from Pakistan 👋
 
 # 💫 About Me:
-"Passionate Software Engineer | Dedicated to Learning and Growth | Building Solutions for Tomorrow"
+"Hello, I'm Hassan Muhammad Yousuf from Pakistan 👋 | Passionate Software Engineer | Dedicated to Learning and Growth | Building Solutions for Tomorrow"
 
 ![Banner Image](https://github.com/Hassan-Muhammad-Yousuf/Hassan-Muhammad-Yousuf/blob/main/Banner.jpeg)
 
