@@ -20,13 +20,10 @@ I am a focused on outcomes developer with a solid grasp of a variety of tech sta
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hassan-Muhammad-Yousuf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hassan-Muhammad-Yousuf&icon=1&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
