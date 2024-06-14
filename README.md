@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-"Hello, I'm <span style="color:yellow;">Hassan Muhammad Yousuf </span> from Pakistan 👋 | Passionate Software Engineer | Dedicated to Learning and Growth | Building Solutions for Tomorrow"
+"Hello, I'm **<code style="color : #FFFF00">Hassan Muhammad Yousuf</code>** from <code style="color : #FFFF00">Pakistan</code>👋" <br>
+"Passionate Software Engineer | Dedicated to Learning and Growth | Building Solutions for Tomorrow"
 
 ![Banner Image](https://github.com/Hassan-Muhammad-Yousuf/Hassan-Muhammad-Yousuf/blob/main/Banner.jpeg)
 
